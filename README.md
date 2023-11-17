@@ -7,7 +7,7 @@
 
 <img width="25%" align="right" alt="Gauthier" src="https://gauthier-thomas.dev/img/GT2.svg" />
 
-If you're having trouble writing code, PM me! After all, it's less frustrating when there are two of you.
+If you have trouble writing code, email me! After all, when two people are sitting around not knowing what to do, it's not as frustrating.
 
 - 📖 Beginner Python developer
 - 💻 I mainly program with Python and other technologies (Less, TypeScript, Node.js, MySQL).

@@ -10,14 +10,17 @@
 If you're having trouble writing code, PM me! After all, it's less frustrating when there are two of you.
 
 - 📖 Beginner Python developer
-- 💻 I mainly program with Python and other technologies (Less, TypeScript (just starting to learn), Node.js (just starting to learn)).
+- 💻 I mainly program with Python and other technologies (Less, TypeScript, Node.js, MySQL).
 - 🔗 My personnal website: [r6e.ru](https://r6e.ru/)
 - 🔗 My telegram channel: [requeste666](https://t.me/requeste666)
 - 📫 Contact me: [mail@r6e.ru](mailto:mail@r6e.ru)
 
 ### Languages and Tools: 
 
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

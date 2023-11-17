@@ -7,21 +7,16 @@
 
 <img width="25%" align="right" alt="Gauthier" src="https://gauthier-thomas.dev/img/GT2.svg" />
 
-I'm a computer science student who is passionate about writing code, building websites and other fun stuff!
+If you're having trouble writing code, PM me! After all, it's less frustrating when there are two of you.
 
-- 📖 Engineering student at ESIREM.
-- 💻 I mainly program with Node.JS and other web technologies (React, Express, Node.js, PHP, CSS, ...).
-- 🔗 My personnal website: [gauthierth.fr](https://gauthierth.fr)
-- 🔗 My professional website: [gauthier-thomas.dev](https://gauthier-thomas.dev)
-- 📫 Contact me: [mail@gauthierth.fr](mailto:mail@gauthierth.fr) or [mail@gauthier-thomas.dev](mailto:mail@gauthier-thomas.dev)
+- 📖 Beginner Python developer
+- 💻 I mainly program with Python and other technologies (Less, TypeScript (just starting to learn), Node.js (just starting to learn)).
+- 🔗 My personnal website: [r6e.ru](https://r6e.ru/)
+- 🔗 My telegram channel: [requeste666](https://t.me/requeste666)
+- 📫 Contact me: [mail@r6e.ru](mailto:mail@r6e.ru)
 
 ### Languages and Tools: 
 
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

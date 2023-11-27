@@ -24,11 +24,3 @@ If you have trouble writing code, email me! After all, when two people are sitti
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!--- HASH: 7818578067628 --->
-<!--- HASH: 3294208611995 --->
-<!--- HASH: 834213764068 --->
-<!--- HASH: 2402450563856 --->
-<!--- HASH: 7068769674021 --->
-<!--- HASH: 2702340359448 --->
-<!--- HASH: 1760053066531 --->

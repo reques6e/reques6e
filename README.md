@@ -18,7 +18,7 @@ If you have trouble writing code, email me! After all, when two people are sitti
 ### Languages and Tools: 
 
 
-<img align="left" alt="Python" width="35px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="35px" src="https://camo.githubusercontent.com/e2ae0b441400591292fb185605807c29e4d13b20db85358c1cf77c9e42ebd823/68747470733a2f2f736869656c64732e696f2f62616467652f2d507974686f6e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

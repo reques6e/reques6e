@@ -23,11 +23,4 @@ If you have trouble writing code, email me! After all, when two people are sitti
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<!--- HASH: 3129210483625 --->
-<!--- HASH: 9838184463034 --->
-<!--- HASH: 5745032350012 --->
-<!--- HASH: 4126291106152 --->
-<!--- HASH: 3823576161365 --->
-<!--- HASH: 8490336653777 --->
-<!--- HASH: 5737268958052 --->
-<!--- HASH: 5425114267260 --->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+of+discord+bots;Essence+-+discord.gg%2FTEduvvsxAN" alt="Typing SVG" /></a>

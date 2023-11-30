@@ -24,13 +24,3 @@ If you have trouble writing code, email me! After all, when two people are sitti
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+of+discord+bots;Essence+-+discord.gg%2FTEduvvsxAN" alt="Typing SVG" /></a>
-
-<!--- HASH: 2279767076971 --->
-<!--- HASH: 8410341698227 --->
-<!--- HASH: 2361238794467 --->
-<!--- HASH: 4043299158184 --->
-<!--- HASH: 9834630784938 --->
-<!--- HASH: 5933817824260 --->
-<!--- HASH: 3706254565270 --->
-<!--- HASH: 4870387720655 --->
-<!--- HASH: 8321609506260 --->

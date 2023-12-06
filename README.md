@@ -24,33 +24,3 @@ If you have trouble writing code, email me! After all, when two people are sitti
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+of+discord+bots;Essence+-+discord.gg%2FTEduvvsxAN" alt="Typing SVG" /></a>
-
-<!--- HASH: 2010687876207 --->
-<!--- HASH: 8080830877044 --->
-<!--- HASH: 7723744381938 --->
-<!--- HASH: 1517876193025 --->
-<!--- HASH: 9684802084817 --->
-<!--- HASH: 6872813805243 --->
-<!--- HASH: 5587947483622 --->
-<!--- HASH: 5610110031426 --->
-<!--- HASH: 8065374246596 --->
-<!--- HASH: 1176397613209 --->
-<!--- HASH: 5021556469799 --->
-<!--- HASH: 5915827444963 --->
-<!--- HASH: 310802864035 --->
-<!--- HASH: 6789099369413 --->
-<!--- HASH: 789746843644 --->
-<!--- HASH: 5882901179705 --->
-<!--- HASH: 7696971550689 --->
-<!--- HASH: 7355788401931 --->
-<!--- HASH: 4708198172109 --->
-<!--- HASH: 3739036629679 --->
-<!--- HASH: 5955403959629 --->
-<!--- HASH: 5016320269322 --->
-<!--- HASH: 4607010350011 --->
-<!--- HASH: 6411119866686 --->
-<!--- HASH: 7856881535907 --->
-<!--- HASH: 7246307554648 --->
-<!--- HASH: 642776591446 --->
-<!--- HASH: 9076441176551 --->
-<!--- HASH: 5253939569006 --->

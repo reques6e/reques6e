@@ -13,7 +13,7 @@ If you have trouble writing code, email me! After all, when two people are sitti
 - 💻 I mainly program with Python and other technologies (Less, TypeScript, Node.js, MySQL).
 - 🔗 My personnal website: [r6e.ru](https://r6e.ru/)
 - 🔗 My telegram channel: [requeste666](https://t.me/requeste666)
-- 📫 Contact me: [mail@r6e.ru](mailto:mail@r6e.ru)(expect a response within 240 hours)
+- 📫 Contact me: [mail@r6e.ru](mailto:mail@r6e.ru) (expect a response within 240 hours)
 ### Languages and Tools: 
 
 

@@ -5,7 +5,7 @@
 --->
 ## Hey there 👋
 
-<img width="25%" align="right" alt="Gauthier" src="assets/21312312312321.png" />
+<img width="25%" align="right" alt="Gauthier" src="assets\21312312312321.png" />
 
 If you have trouble writing code, email me! After all, when two people are sitting around not knowing what to do, it's not as frustrating.
 

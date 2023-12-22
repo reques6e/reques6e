@@ -25,3 +25,4 @@ If you have trouble writing code, email me! After all, when two people are sitti
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+of+discord+bots;Essence+-+discord.gg%2FTEduvvsxAN" alt="Typing SVG" /></a>
 
 <!--- HASH: 2984001637871 --->
+<!--- HASH: 9859114619736 --->

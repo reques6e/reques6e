@@ -6,9 +6,6 @@
 ## Hey there 👋
 
 <img width="25%" align="right" alt="Gauthier" src="assets\21312312312321.png" />
-
-If you have trouble writing code, email me! After all, when two people are sitting around not knowing what to do, it's not as frustrating.
-
 - 📖 Beginner Python developer
 - 💻 I mainly program with Python and other technologies (Less, TypeScript, Node.js, MySQL).
 - 🔗 My personnal website: [r6e.ru](https://r6e.ru/)

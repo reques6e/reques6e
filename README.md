@@ -1,8 +1,4 @@
-<!--- Hello Developers 
-<p align="center" dir="auto">
- <a target="_blank" rel="noopener noreferrer" href="assets/github-snake.svg"><img width="600" src="assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
-</p>
---->
+
 ## Hey there 👋
 
 <img width="25%" align="right" alt="Gauthier" src="assets\21312312312321.png" />
@@ -18,7 +14,10 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-### Installing libary
+
+
+
+# Installing libary
 ```sh
 pip install cloverdb
 ```

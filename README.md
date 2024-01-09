@@ -1,4 +1,3 @@
-
 ## Hey there 👋
 
 <img width="25%" align="right" alt="Gauthier" src="assets\21312312312321.png" />

@@ -12,13 +12,3 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!--- HASH: 4142811817775 --->
-<!--- HASH: 5793803126342 --->
-<!--- HASH: 6730686764888 --->
-<!--- HASH: 8531468591868 --->
-<!--- HASH: 2147360530024 --->
-<!--- HASH: 1038283928367 --->
-<!--- HASH: 3397553879635 --->
-<!--- HASH: 4032571128921 --->
-<!--- HASH: 939748112615 --->

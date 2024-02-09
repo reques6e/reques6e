@@ -1,4 +1,4 @@
-<img src='assets\Banner.png'>
+<img src='assets\Banner1.png'>
 
 ## Hey there 👋
 

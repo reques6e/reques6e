@@ -2,6 +2,11 @@
 
 ## Hey there 👋
 
+<span class="username--style14" style="background: linear-gradient(20deg, #73bcff, #fff 50%, #3c5dff 52%, #006eff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 7px #435aff80;">RProject</span>
+    
 <img width="25%" align="right" alt="Gauthier" src="assets\213123212312321.png" />
 
 - 📖 Beginner Python developer
@@ -15,7 +20,3 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<span class="username--style14" style="background: linear-gradient(20deg, #73bcff, #fff 50%, #3c5dff 52%, #006eff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 7px #435aff80;">RProject</span>

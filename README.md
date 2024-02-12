@@ -1,11 +1,6 @@
 <img src='assets\Banner1.png'>
 
 ## Hey there 👋
-
-<span class="username--style14" style="background: linear-gradient(20deg, #73bcff, #fff 50%, #3c5dff 52%, #006eff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 7px #435aff80;">RProject</span>
     
 <img width="25%" align="right" alt="Gauthier" src="assets\213123212312321.png" />
 

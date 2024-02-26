@@ -31,6 +31,6 @@ Module by <a href='https://github.com/reques6e' style='display: block; text-alig
 Framework by <a href='https://github.com/reques6e' style='display: block; text-align: center;'>Requeste Project<img src='https://github.com/reques6e/reques6e/blob/main/assets/images.png?v=1' alt='Мой баннер' width='20' height='20' style='float: right;'></a>
 ```
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=reques6e&hide_border=true&locale=ru&count_private=true&show_icons=true&theme=radical" alt="Latand" align = "center"/>
-<img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reques6e&show_icons=true&locale=ru&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
+<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reques6e&show_icons=true&locale=ru&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reques6e&locale=ru&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Latand" /></p>

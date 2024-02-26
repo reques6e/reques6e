@@ -1,6 +1,6 @@
 <img src='assets\Banner1.png'>
 
-## Hey there 👋
+## Приветствую 👋
     
 <img width="25%" align="right" alt="Gauthier" src="assets\213123212312321.png" />
 
@@ -9,7 +9,7 @@
 - 🔗 Мой сайт (временно не работает): [r6e.ru](https://r6e.ru/)
 - 🔗 Мой телеграм канал (не актуально): [requeste666](https://t.me/requeste666)
 - 📫Контакты (не актуально): [mail@r6e.ru](mailto:mail@r6e.ru) (Ответ ожидайте в течении 240 часов, не ответил = дублируй)
-### Languages and Tools: 
+### Языки и программы: 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

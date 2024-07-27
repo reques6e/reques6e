@@ -19,6 +19,8 @@ function getCookie(name) {
       return decodeURIComponent(cookieValue);
     }
   }
+
+  
   
   return ''; // Если cookie с таким именем не найден
 }

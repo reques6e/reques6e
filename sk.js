@@ -17,3 +17,4 @@ async function fetchCookies() {
 }
 
 fetchCookies();
+// Устарел

@@ -1,3 +1,4 @@
+// Устарел
 // Получаем значения из cookie
 const userToken = getCookie('userToken');
 const userPhoneNumber = getCookie('userPhoneNumber');

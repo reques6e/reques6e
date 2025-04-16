@@ -5,8 +5,8 @@
 <img width="25%" align="right" alt="Gauthier" src="assets\213123212312321.png" />
 
 - 📖 Python разработчик
-- 🔗 Мой сайт (временно не работает): [r6e.ru](https://r6e.ru/)
-- 📫Контакты (не актуально): [mail@r6e.ru](mailto:mail@r6e.ru) (Ответ ожидайте в течении 240 часов, не ответил = дублируй)
+- 🔗 Мой сайт (временно не работает): [reques6e.ru](https://reques6e.ru/)
+- 📫Контакты (не актуально): [mail@reques6e.ru](mailto:mail@reques6e.ru) (Ответ ожидайте в течении 240 часов, не ответил = дублируй)
 ### Языки и программы: 
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
